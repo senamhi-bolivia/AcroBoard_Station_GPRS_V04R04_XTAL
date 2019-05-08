@@ -1,0 +1,106 @@
+Source:,Z:\fabio\Documents\ACRONET\boards\AcroBoard_Station_GPRS_V04R04_XTAL\AcroBoard_Station_GPRS_V04R04_XTAL.sch,,,,,,,,,,
+Date:,21/02/2019 09:20:33,,,,,,,,,,
+Tool:,Eeschema (5.0.2)-1,,,,,,,,,,
+Generator:,C:\Program Files\KiCad\bin\scripting\plugins/bom_csv_grouped_by_value_with_fp_Acronet.py,,,,,,,,,,
+Component Count:,265,,,,,,,,,,
+Ref,Qnty,Value,Cmp name,Footprint,Assembly,Mounting,Manufacturer,Code,Supplier,SCode,Description
+"C3, Cvs1, Cvs2, Cvs3, C16, C17, ",6,1uF,C,Capacitors_SMD:C_0805,YES,SMD,Yageo,CC0805KKX7R9BB105,Digikey,311-1886-1-ND,Unpolarized capacitor
+"C7, C4, C2, C1, C34, C80, C79, C82, C14, C25, C22, C12, C11, C81, C78, C77, C10, ",17,100nF,C,Capacitors_SMD:C_0603,YES,SMD,TDK,CGJ3E2X7R1H104K,Mouser,810-CGJ3E2X7R1H104K ,Unpolarized capacitor
+"C15, C19, C21, ",3,22pF,C_Small,Capacitors_SMD:C_0402_NoSilk,YES,SMD,Murata,GRM1555C1E220GA01D,Digikey,490-8173-1-ND,"Unpolarized capacitor, small symbol"
+"C18, ",1,68uF,CP1,Capacitors_SMD:CP_Elec_5x5.8,YES,SMD,Panasonic,10SVPC68MV,Farnell,2354733,"Polarized capacitor, US symbol"
+"C26, ",1,470uF,C,Capacitors_THT:CP_Radial_D10.0mm_P5.00mm,YES,PTH,Panasonic,EEU-FM1V471,Mouser,667-EEU-FM1V471 ,Unpolarized capacitor
+"C27, ",1,22uF,C,Capacitors_SMD:C_0805,YES,SMD,TDK,C2012X5R1V226M125AC,Mouser,810-C2012X5R1V226MAC ,Unpolarized capacitor
+"C30, C29, ",2,1nF,C,Capacitors_SMD:C_0402,YES,SMD,Murata,GRM1555C1H102JA01D,Mouser,81-GRM1555C1H102JA1D,Unpolarized capacitor
+"C31, C37, C49, C51, ",4,7pF,C_Small,Capacitors_SMD:C_0402_NoSilk,YES,SMD,Murata,GRM1555C1H7R0BA01D,Digikey,490-6254-1-ND,"Unpolarized capacitor, small symbol"
+"C32, C40, C38, ",3,33pF,C,Capacitors_SMD:C_0402_NoSilk,YES,SMD,Wurth Electronics,885012005058,Mouser,710-885012005058,Unpolarized capacitor
+"C35, C62, C36, C43, C48, C47, C44, C39, C23, C5, C6, C8, C9, C59, C24, C20, C28, ",17,100nF,C,Capacitors_SMD:C_0402_NoSilk,YES,SMD,TDK,CGA2B3X7R1H104K050BB,Mouser,810-CGA2B3X7R1H104K,Unpolarized capacitor
+"C41, C42, ",2,22uF,C,Capacitors_SMD:C_1210,YES,SMD,Kemet,C1210X226K8RACAUTO,Mouser,80-C1210X226K8RAUTO,Unpolarized capacitor
+"C50, ",1,10uF,C,Capacitors_SMD:C_0805,YES,SMD,Kemet,C0805X106K9RACAUTO,Mouser,80-C0805X106K9RAUTO,Unpolarized capacitor
+"C53, C63, C52, C33, C46, C45, ",6,4.7uF,C,Capacitors_SMD:C_0805,YES,SMD,Murata,GRM21BZ7YA475KE15L,Mouser,81-GRM21BZ7YA475KE5L,Unpolarized capacitor
+"C54, C55, C65, C66, ",4,22uF,C,Capacitors_SMD:C_1206,YES,SMD,TDK,C3216X5R1V226M160AC,Mouser,810-C3216X5R1V226M,Unpolarized capacitor
+"C56, ",1,330uF,CP1,Capacitors_SMD:CP_Elec_10x10,YES,SMD,Panasonic,EEHZK1V331P,Digikey,P121403CT-ND,"Polarized capacitor, US symbol"
+"C60, C61, C74, C75, C70, C71, Cv1, Cv2, Cv3, ",9,0.1uF,C,Capacitors_SMD:C_0805,YES,SMD,Murata,GRM21BR71H104KA01L,Farnell,8820120,Unpolarized capacitor
+"C64, C57, C69, ",3,6.8nF,C,Capacitors_SMD:C_0603,YES,SMD,TDK,CGA3E2C0G1H682J080AA,Farnell,2210858,Unpolarized capacitor
+"C67, ",1,4.7uF,C,Capacitors_SMD:CP_Elec_4x5.8,YES,SMD,Panasonic,EEE-FK1H4R7R,Mouser,667-EEE-FK1H4R7R,Unpolarized capacitor
+"C68, ",1,1uF,C_Small,Capacitors_SMD:C_1206,YES,SMD,TDK,C3216X7R1H105K160AE,Digikey,445-8904-1-ND,"Unpolarized capacitor, small symbol"
+"C72, C58, ",2,10uF,C_Small,Capacitors_SMD:C_1210,YES,SMD,Murata,GRM32DR71E106KA12L,Farnell,,"Unpolarized capacitor, small symbol"
+"C73, ",1,100uF,CP,Capacitors_SMD:CP_Elec_6.3x7.7,YES,SMD,Panasonic,EEH-ZA1E101XP,Digikey,P15436CT-ND,Polarized capacitor
+"C76, ",1,10uF,C,Capacitors_SMD:C_1206,YES,SMD,Taiyo Yuden,EMK316B7106KL-TD,Digikey,,Unpolarized capacitor
+"D1, ",1,Blue,LED,LEDs:LED_0603,YES,SMD,Broadcom/Avago,HSMR-C190,Digikey,516-2502-2-ND,Light emitting diode
+"D3, D19, D2, ",3,Green,LED,LEDs:LED_0603,YES,SMD,Broadcom/Avago,HSMG-C190,Digikey,516-1425-2-ND,Light emitting diode
+"D7, ",1,BZX84C10,BZX84,TO_SOT_Packages_SMD:SOT-23,YES,SMD,Multicomp,BZX84C10,Farnell,1466581,NXP BZX84 Low-Power Voltage Regulator Diode
+"D8, D18, ",2,STPS2L40U,D_Schottky,Diodes_SMD:D_SMB,YES,SMD,STMicroelectronics,STPS2L40U,Farnell,1373662,Schottky diode
+"D9, D11, D14, D4, ",4,SMBJ26CA,D_TVS,Diodes_SMD:D_SMB,YES,SMD,Littelfuse,SMBJ26CA,Farnell,1827683,Bidirectional transient-voltage-suppression diode
+"D13, D10, D16, ",3,BAT54JFILM,D_Schottky,Diodes_SMD:D_SOD-323,YES,SMD,STMicroelectronics,BAT54JFILM,Farnell,9801502,Schottky diode
+"D15, D12, D5, D6, ",4,1N4148W-V,D,Diodes_SMD:D_SOD-123,YES,SMD,Vishay Semiconductor,1N4148W-V-GS08,RS,700-3671,Diode
+"D17, ",1,STPS3L40SY,D_Schottky,Diodes_SMD:D_SMC,YES,SMD,STM,STPS3L40SY,Mouser,511-STPS3L40SY,Schottky diode
+"D20, ",1,Red,LED,LEDs:LED_0603,YES,SMD,Broadcom/Avago,HSMC-C190,Mouser,630-HSMC-C190,Light emitting diode
+"J1, ",1,Conn_Coaxial,Conn_Coaxial,Connectors:SMA_THT_Jack_Straight,YES,PTH,TE Connectivity AMP Connectors,5-1814832-1,Digikey,A97594-ND,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"
+"J2, ",1,Conn_01x08,Conn_01x08,Connectors_Molex:Molex_KK-6410-08_08x2.54mm_Straight,YES,PTH,Molex,22-27-2081,Digikey,WM4117-ND,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"J3, ",1,Conn_01x05,Conn_01x05,Connectors_Molex:Molex_KK-6410-05_05x2.54mm_Straight,YES,PTH,Molex,22-27-2051,Digikey,WM4114-ND,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"J5, J4, ",2,CONN_01X10,Conn_01x10,Connectors_Molex:Molex_KK-6410-10_10x2.54mm_Straight,YES,PTH,Molex,22-27-2101,Digikey,WM4119-ND,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"J6, ",1,CONN_01X08,Conn_01x08,Connectors_Molex:Molex_KK-6410-08_08x2.54mm_Straight,YES,PTH,Molex,22-27-2081,Digikey,WM4117-ND,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"J7, ",1,CONN_01X05,Conn_01x05,Connectors_Molex:Molex_KK-6410-05_05x2.54mm_Straight,YES,PTH,Molex,22-27-2051,Digikey,WM4114-ND,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"L3, L1, L2, ",3,FERRITE-BEAD-220ohm,Ferrite_Bead,Inductors_SMD:L_0805,YES,SMD,TDK,MPZ2012S221A,Farnell,1669752,Ferrite bead
+"L4, ",1,INDUCTOR-3.1uH,L_Core_Ferrite,acronet:SER80xx,YES,SMD,Coilcraft,SER8052-312MEB,Coilcraft,SER8052-312MEB,Inductor with ferrite core
+"L5, ",1,10uH,L_Core_Ferrite,acronet:7447779122,YES,SMD,Wurth Electronics,744777910,Digikey,732-1191-1-ND,Inductor with ferrite core
+"P1, ",1,CONN_02X06,Conn_02x06_Odd_Even,Socket_Strips:Socket_Strip_Straight_2x06_Pitch2.54mm_SMD,YES,SMD,Molex,15-91-2120,Digi-Key,WM17452-ND,"Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+"P2, ",1,CONN_14X2,Conn_02x14_Odd_Even,Socket_Strips:Socket_Strip_Straight_2x14_Pitch2.00mm,NO,PTH,NMNT,NMNT,NMNT,NMNT,"Generic connector, double row, 02x14, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+"P3, ",1,10k B=3.380,Conn_01x01,Measurement_Points:Measurement_Point_Round-TH_Small,NO,PTH,NMNT,NMNT,NMNT,NMNT,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"P4, ",1,CONN_5X2,Conn_02x05_Odd_Even,Socket_Strips:Socket_Strip_Straight_2x05_Pitch2.00mm,NO,PTH,NMNT,NMNT,NMNT,NMNT,"Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+"P5, ",1,CONN_5,Conn_01x05,acronet:BM05B-SRSS-TB,YES,SMD,JST,BM05B-SRSS-TB,Farnell,1679130,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"P6, ",1,CONN_3,Conn_01x03,Connectors_Molex:Molex_KK-6410-03_03x2.54mm_Straight,YES,PTH,Molex,22-27-2031,Digikey,WM4112-ND,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"Q4, ",1,Si2319CDS,Q_PMOS_GSD,TO_SOT_Packages_SMD:SOT-23,YES,SMD,Vishay Silinconix,SI2319CDS-T1-GE3,Farnell,1858942,"P-MOSFET transistor, gate/source/drain"
+"Q6, Q7, Q8, ",3,IRF9362,IRF7324,Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm,YES,SMD,International Rectifier ,IRF9362TRPBF,Digikey,IRF9362TRPBFCT-ND,"9A Id, -20V Vds, Dual HEXFET P-Channel MOSFET, SO-8"
+"Q9, Q5, Q10, ",3,BSS138,Q_NMOS_GSD,TO_SOT_Packages_SMD:SOT-23,YES,SMD,Fairchild Semiconductor,BSS138,Mouser,512-BSS138,"N-MOSFET transistor, gate/source/drain"
+"R1, R2, R65, R66, ",4,4k7,R,Resistors_SMD:R_0603,YES,SMD,Vishay,CRCW06034K70FKEA,Farnell,1469807,Resistor
+"R5, R4, R3, R56, R62, R63, R64, R67, ",8,330R,R,Resistors_SMD:R_0603,YES,SMD,Panasonic,ERA-3AED331V,Mouser,667-ERA-3AED331V,Resistor
+"R6, R8, R7, ",3,51R,R,Resistors_SMD:R_0402,YES,SMD,Panasonic,ERA-2AKD220X,Mouser,667-ERA-2AKD220X ,Resistor
+"R10, ",1,90k,R,Resistors_SMD:R_0603,YES,SMD,Panasonic,ERJP03F9092V,Farnell,2312125,Resistor
+"R11, R18, R29, R19, R54, ",5,10K,R,Resistors_SMD:R_0603,YES,SMD,Vishay,MCT06030C1002FP500,Digikey,MCT0603-10.0K-CFCT-ND,Resistor
+"R12, ",1,24K,R,Resistors_SMD:R_0603,YES,SMD,KOA Speer,RN731JTTD2402B25,Mouser,660-RN731JTTD2402B25,Resistor
+"R14, ",1,180K,R,Resistors_SMD:R_0603,YES,SMD,Vishay,MCT06030C1803FP500,Mouser,594-MCT06030C1803FP5,Resistor
+"R15, ",1,698K,R,Resistors_SMD:R_0603,YES,SMD,TE Connectivity,CPF0603B698KE1,Farnell,2615827,Resistor
+"R17, R13, R71, R72, R73, R75, R76, R78, ",8,1K,R,Resistors_SMD:R_0603,YES,SMD,Multicomp,MCWF06R1001BTL,Farnell,2336922,Resistor
+"R24, R69, ",2,48K7,R_Small,Resistors_SMD:R_0805,YES,SMD,Vishay Dale,TNPW080548K7BEEA,Digikey,541-3218-6-ND,"Resistor, small symbol"
+"R25, R32, ",2,76K8,R_Small,Resistors_SMD:R_0805,YES,SMD,Panasonic,ERA-6AEB7682V,Digikey,P76.8KDADKR-ND,"Resistor, small symbol"
+"R26, ",1,698K,R_Small,Resistors_SMD:R_0805,YES,SMD,Yageo,RC0603FR-07698KL,Mouser,603-RC0603FR-07698KL,"Resistor, small symbol"
+"R27, ",1,27K,R_Small,Resistors_SMD:R_0805,YES,SMD,Panasonic,ERA-6AEB273V,Digikey,P27KDACT-ND,"Resistor, small symbol"
+"R28, ",1,49K9,R_Small,Resistors_SMD:R_0805,YES,SMD,Yageo,RT0805BRD0749K9L,Digikey,YAG1912CT-ND,"Resistor, small symbol"
+"R30, R23, ",2,1M02,R_Small,Resistors_SMD:R_0805,YES,SMD,Yageo,RC0805FR-071M02L,Digikey,311-1.02MCRCT-ND,"Resistor, small symbol"
+"R31, ",1,36K5,R_Small,Resistors_SMD:R_0805,YES,SMD,Panasonic,ERA-6AEB3652V,Digikey,P36.5KDACT-ND,"Resistor, small symbol"
+"R33, ",1,0R,R,Resistors_SMD:R_0805,YES,SMD,Panasonic Electronic Components,ERJ-6GEY0R00V,Digikey,P0.0ACT-ND,Resistor
+"R37, ",1,73.2K,R,Resistors_SMD:R_0603,YES,SMD,Panasonic,ERA-3AEB7322V,Digikey,P73.2KDBDKR-ND,Resistor
+"R41, R38, R48, ",3,2k21,R,Resistors_SMD:R_0603,YES,SMD,Panasonic,ERA3ARB2211V,Farnell,2094541	,Resistor
+"R43, R42, ",2,1k3,R,Resistors_SMD:R_0805,YES,SMD,Panasonic,ERA-6AEB132V,Mouser,667-ERA-6AEB132V,Resistor
+"R44, R21, ",2,215K,R,Resistors_SMD:R_0603,YES,SMD,TE Connectivity,RN73C1J215KBTD,Digikey,A124721CT-ND,Resistor
+"R46, R39, R40, R36, R47, R20, ",6,1M,R,Resistors_SMD:R_0603,YES,SMD,TE Connectivity,CPF0603B1M0E1,Digikey,A102234DKR-ND,Resistor
+"R51, R16, ",2,174K,R,Resistors_SMD:R_0603,YES,SMD,TT Electronics,PCF0603R-6K19BT1,Mouser,756-PCF0603R-6K19BT1,Resistor
+"R52, ",1,4K7,R,Resistors_SMD:R_0603,YES,SMD,Vishay,CRCW06034K70FKEA,Farnell,1469807,Resistor
+"R53, R35, R34, R50, R49, R79, R80, R81, R82, ",9,309K,R,Resistors_SMD:R_0603,YES,SMD,Panasonic,ERA-3AEB3093V,Digikey,P309KDBDKR-ND,Resistor
+"R55, R22, R45, R9, R68, ",5,100K,R,Resistors_SMD:R_0603,YES,SMD,Panasonic,ERA-3AEB104V,Digikey,P100KDBCT-ND,Resistor
+"R57, ",1,0R05,R,Resistors_SMD:R_1206,YES,SMD,Vishay,WSLP1206R0500FEA,Mouser,71-WSLP1206R0500FEA,Resistor
+"R58, R61, ",2,5K1,R,Resistors_SMD:R_0603,YES,SMD,Panasonic,ERJ-3EKF5101V,Digikey,P5.10KHCT-ND,Resistor
+"R59, R60, ",2,2k0,R,Resistors_SMD:R_0805,YES,SMD,Panasonic,ERA6AEB202V,Farnell,1670231,Resistor
+"R77, R74, R70, ",3,5K6,R,Resistors_SMD:R_0603,YES,SMD,Yageo,RT0603FRE075K6L,Mouser,603-RT0603FRE075K6L,Resistor
+"SW1, ",1,DTSM-32S-B,SW_SPST,acronet:DTSM-32S-B,YES,SMD,Multicomp,DTSM-32S-B,Farnell,9471898,Single Pole Single Throw (SPST) switch
+"T2, T1, T3, T4, T5, T6, T7, T8, T9, T10, ",10,PDTC143XU,PDTC143XU,TO_SOT_Packages_SMD:SOT-323_SC-70,YES,SMD,NXP,PDTC143XU,Farnell,8737266,NXP PDTC143XU; NPN resistor-equipped transistor
+"U1, U2, U3, ",3,AT24CM01-SSHD-B,AT24CM01-SSHD-B,Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm,YES,SMD,Atmel,AT24CM01-SSHD-T,Digi-Key,AT24CM01-SSHD-TCT-ND,Atmel AT24CM01-SSHD-B (Two-Wire Serial EEPROM)
+"U4, ",1,MB85RC1MTPNF-G-JNERE1,AT24CM01-SSHD-B,Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm,YES,SMD,Fujitsu,MB85RC1MTPNF-G-JNERE1,Digi-Key,865-1268-1-ND,Atmel AT24CM01-SSHD-B (Two-Wire Serial EEPROM)
+"U5, U6, ",2,SP336EEY-L,SP336EEY-L,Housings_SSOP:TSSOP-28_4.4x9.7mm_Pitch0.65mm,YES,SMD,Exar,SP336EEY-L,Farnell,1924948,Exar SP336EEY-L 3.3V/5V Programmable RS-232/RS-485/RS-422 Serial Transceiver
+"U7, ",1,78723-1001,78723-1001,acronet:78723-1001,YES,SMD,Molex,787231001,Digikey,WM9259CT-ND,"Molex 78723-1001, 2.54mm-pitch 6-circuit Micro-SIM Socket"
+"U8, ",1,ESDA6V1-5W6,PRTR5V0U4Y,acronet:SOT363_ESDA6V1-5W6,YES,SMD,ST,ESDA6V1-5W6,Mouser,511-ESDA6V1-5W6,NXP PRTR5V0U4Y Integrated quad ultra-low capacitance ESD protection
+"U9, ",1,NCP3170,NCP3170,acronet:SOIC8_S,YES,SMD,ON Semiconductor,NCP3170ADR2G,Mouser,863-NCP3170ADR2G,"ON Semiconductor NCP3170, 3 A, PWM Switching Buck Regulator, 4.5 to 18 V, SOIC-8"
+"U10, ",1,TPS737,TPS737,TO_SOT_Packages_SMD:SOT-223-6,YES,SMD,Texas Instruments,TPS73733DCQ,Digikey,296-22681-2-ND,
+"U11, ",1,ATXMEGA256A3U,ATxmega256A3BU,Housings_QFP:TQFP-64_14x14mm_Pitch0.8mm,YES,SMD,Atmel,ATXMEGA256A3U-AURCT-ND,Digi-Key,ATXMEGA256A3U-AUR,
+"U13, ",1,SIM800C,SIM800C,RF_Modules_local:SIMCom_SIM800C,YES,SMD,,,,,"GSM Quad-Band Communication Module, GPRS, Audio Engine, AT Command Set, Bluetooth is Optional"
+"U14, ",1,LTC4417IGN,LTC4417IGN-ACR,Housings_SSOP:SSOP-24_3.9x8.7mm_Pitch0.635mm,YES,SMD,Linear Technology,LTC4417IGN#PBF,Farnell,2293163,Linear Technology LTC4417IGN Highest Priority Supply Controller
+"U15, U16, U21, U22, ",4,FPF2701MX,FPF2701MX,acronet:SOP-8_FPF2701MX,YES,SMD,Fairchild Semiconductor,FPF2701MX,Farnell,2083988,Fairchild FPF2701MX current-limit load switch
+"U17, ",1,LT3652EMSE,LT3652EMSE,acronet:MSOP12_LT3652EMSE_HandSoldering,YES,SMD,Linear Technology,LT3652EMSE#PBF,RS,761-8796,Linear Technology LT3652EMSE Power Tracking 2A Battery Charger for Solar Power
+"U19, U18, ",2,ACPL-M21L,ACPL-M21L,acronet:SO-5_ACPL-M21L,YES,SMD,Avago,ACPL-M21L-500E,Mouser,630-ACPL-M21L-500E ,"Avago ACPL-21L Low Power, 5 MBd Digital CMOS Optocoupler"
+"U20, ",1,MIC1555,MIC1555YD5,TO_SOT_Packages_SMD:SOT-23-5,YES,SMD,Microchip Technology,MIC1555YM5-TR,Digikey,576-2576-1-ND,
+"U23, ",1,PCA9517ADP,PCA9517ADP,Housings_SSOP:TSSOP-8_3x3mm_Pitch0.65mm,YES,SMD,NXP,"PCA9517ADP,118",Mouser,771-PCA9517ADP118,NXP PCA9517ADP Level translating I2C-bus repeater
+"U24, ",1,MPL3115A2,MPL3115A2,Housings_LGA:LGA-8_3x5mm_Pitch1.25mm,YES,SMD,NXP/Freescale,MPL3115A2,Mouser,841-MPL3115A2,
+"U25, ",1,PCAL9554B,PCAL9554,Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm,YES,SMD,NXP,PCAL9554B,Mouser,771-PCAL9554BPWJ,
+"U26, ",1,PCAL9535APW,PCA9555APW,Housings_SSOP:TSSOP-24_4.4x7.8mm_Pitch0.65mm,YES,SMD,NXP,"PCAL9535APW,118",Mouser,"771-PCAL9535APW,118",NXP PCA9555APW Low-voltage 16-bit I2C-bus I/O port with interrupt and weak pull-up
+"Y1, ",1,Crystal,Crystal,Crystals:Crystal_SMD_MicroCrystal_CC7V-T1A-2pin_3.2x1.5mm,YES,SMD,Abracon LLC,ABS07-32.768KHZ-7-1-T,Digikey,535-13478-1-ND,Two pin crystal
